@@ -18,4 +18,9 @@ Repositório: https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/blob/8
 
 # Exercício: Elaborar um cenário greybox utilizando conceitos de iluminação e prefab.
 
-Repósitorio:
+Repósitorio: https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/main/Reposit%C3%B3rio/ExercicioSacarDinheiro/QuartoIlumunicaoPrefabs
+
+
+![quartoGame](https://user-images.githubusercontent.com/107582204/202865989-f0ad0c49-aa93-4130-81f3-f0304e70f3e5.jpg) ![quatoGame2](https://user-images.githubusercontent.com/107582204/202866038-ccf7400e-989a-47c5-b0c5-e8d4072ac314.jpg)
+
+![quartoGame3](https://user-images.githubusercontent.com/107582204/202866024-14dfe4d6-8649-4489-b919-71b15f4f2679.jpeg)
