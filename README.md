@@ -21,6 +21,7 @@ Repositório: https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/blob/8
 Repósitorio: https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/main/Reposit%C3%B3rio/ExercicioSacarDinheiro/QuartoIlumunicaoPrefabs
 
 
-![quartoGame](https://user-images.githubusercontent.com/107582204/202865989-f0ad0c49-aa93-4130-81f3-f0304e70f3e5.jpg) ![quatoGame2](https://user-images.githubusercontent.com/107582204/202866038-ccf7400e-989a-47c5-b0c5-e8d4072ac314.jpg)
+![quartoGame](https://user-images.githubusercontent.com/107582204/202865989-f0ad0c49-aa93-4130-81f3-f0304e70f3e5.jpg) ![gameQuarto](https://user-images.githubusercontent.com/107582204/202866120-cf872fa1-9b85-4adf-8a78-89978360debe.jpeg)
+
 
 ![quartoGame3](https://user-images.githubusercontent.com/107582204/202866024-14dfe4d6-8649-4489-b919-71b15f4f2679.jpeg)
