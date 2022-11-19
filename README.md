@@ -16,3 +16,6 @@ Repositório: https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/blob/8
 ![sacardinheiro](https://user-images.githubusercontent.com/107582204/202787813-f5f76ed0-68d8-437a-b76a-1291f552554d.jpeg)
 
 
+# Exercício: Elaborar um cenário greybox utilizando conceitos de iluminação e prefab.
+
+Repósitorio:
