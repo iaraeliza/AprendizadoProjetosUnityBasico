@@ -24,3 +24,9 @@ Repósitorio: https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/m
 
 
 ![quartoGame3](https://user-images.githubusercontent.com/107582204/202866024-14dfe4d6-8649-4489-b919-71b15f4f2679.jpeg)
+
+
+# Exercício: Elaborar um jogo com perguntas e respostas com três níveis de dificuldade.
+
+
+![Quiz](https://user-images.githubusercontent.com/107582204/203407349-8f263c38-ad2b-4fc1-abef-83f691e012d5.gif)
