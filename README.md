@@ -35,3 +35,5 @@ Repósitorio: https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/m
 # Exercício: Elaborar uma cena com um objeto com movimentação. Adicionar o envento "Destruction" . 
 Para este exercício o "destruction" foi implementado no objeto quando ocorrer uma colissao. 
 
+![Destruicao](https://user-images.githubusercontent.com/107582204/203569210-99c43c8c-58f2-476c-a55f-f5b5178b7b7d.gif)
+
