@@ -32,5 +32,12 @@ Repósitorio: https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/m
 ![Quiz](https://user-images.githubusercontent.com/107582204/203407349-8f263c38-ad2b-4fc1-abef-83f691e012d5.gif)
 
 
+| Repositório                                                                       | Descrição                                                  | 
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | 
+|[Documentação] |Gerenciamento de cenas: elaborar duas cenas, e fazer um objeto transitar por elas  |
+
+
+![Cenas](https://user-images.githubusercontent.com/107582204/204532032-8a7e1bc3-1e92-4524-a373-3acf03fecd0b.gif)
+
 
 
