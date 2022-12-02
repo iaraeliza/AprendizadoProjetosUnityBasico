@@ -1,7 +1,7 @@
 # Aprendizado Projetos UnityBasico
 
 
-Repositório Baseado nos exercícios considerados pertinentes para exibição Unity
+Repositório Baseado nos exercícios considerados pertinentes para exibição Unity.
 
 Curso Mentorama: Desenvolvedor de Games em Unity.
 
