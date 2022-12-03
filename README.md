@@ -43,7 +43,7 @@ Considerando sempre como prioridade a nota de maior valor.
 
 
 # Desafio força no eixo vertical: para este exercício a força em y é utilizada para o objeto vencer os obstáculos.
-[Documentação](https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/main/Exercicios/GerenciamentoDeCenas)
+[Documentação](https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/main/Exercicios/GameBullet)
 
 ![GameBulletInLoco](https://user-images.githubusercontent.com/107582204/205461921-4cd164bf-b906-4a12-8b64-4460af9227a8.gif)
 
