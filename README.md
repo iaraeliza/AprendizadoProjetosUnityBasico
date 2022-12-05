@@ -38,6 +38,7 @@ Considerando sempre como prioridade a nota de maior valor.
 
 
 <h2>Gerenciamento de cenas: elaborar duas cenas, e fazer um objeto transitar por elas. </h2>  
+
 [Documentação](https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/main/Exercicios/GerenciamentoDeCenas)
 
 
