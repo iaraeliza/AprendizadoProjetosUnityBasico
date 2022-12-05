@@ -1,3 +1,6 @@
+ <h2 align="center">  :construction: Projeto em construção :construction: </h2>
+
+
 # Aprendizado Projetos UnityBasico
 
 
@@ -7,7 +10,7 @@ Repositório Baseado nos exercícios considerados pertinentes para exibição Un
 Curso Mentorama: Desenvolvedor de Games em Unity.
 
 
-# Exercício Sacar Dinheiro
+<h2>Exercício Sacar Dinheiro</h2>
 
 Elabore um código que receba o valor que deseja sacar, e receber como resposta quantas notas de cada irá receber.
 Considerando sempre como prioridade a nota de maior valor. 
@@ -17,7 +20,7 @@ Considerando sempre como prioridade a nota de maior valor.
 ![sacardinheiro](https://user-images.githubusercontent.com/107582204/202787813-f5f76ed0-68d8-437a-b76a-1291f552554d.jpeg)
 
 
-# Exercício: Elaborar um cenário greybox utilizando conceitos de iluminação e prefab.
+<h2>Exercício: Elaborar um cenário greybox utilizando conceitos de iluminação e prefab.</h2>
 
 [Documentação](https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/main/Reposit%C3%B3rio/ExercicioSacarDinheiro/QuartoIlumunicaoPrefabs)
 
@@ -27,14 +30,14 @@ Considerando sempre como prioridade a nota de maior valor.
 ![quartoGame3](https://user-images.githubusercontent.com/107582204/202866024-14dfe4d6-8649-4489-b919-71b15f4f2679.jpeg)
 
 
-# Elaborar um jogo com perguntas e respostas com três níveis de dificuldade.
+<h2>Elaborar um jogo com perguntas e respostas com três níveis de dificuldade.</h2>
 
 [Documentação](https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/main/Exercicios/Quiz) 
 
 ![Quiz](https://user-images.githubusercontent.com/107582204/203407349-8f263c38-ad2b-4fc1-abef-83f691e012d5.gif)
 
 
-# Gerenciamento de cenas: elaborar duas cenas, e fazer um objeto transitar por elas  
+<h2>Gerenciamento de cenas: elaborar duas cenas, e fazer um objeto transitar por elas. </h2>  
 [Documentação](https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/main/Exercicios/GerenciamentoDeCenas)
 
 
@@ -42,7 +45,7 @@ Considerando sempre como prioridade a nota de maior valor.
 
 
 
-# Desafio força no eixo vertical: para este exercício a força em y é utilizada para o objeto vencer os obstáculos.
+<h2>Desafio força no eixo vertical: para este exercício a força em y é utilizada para o objeto vencer os obstáculos.</h2>
 [Documentação](https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/main/Exercicios/GameBullet)
 
 ![GameBulletInLoco](https://user-images.githubusercontent.com/107582204/205461921-4cd164bf-b906-4a12-8b64-4460af9227a8.gif)
