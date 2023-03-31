@@ -6,7 +6,7 @@
 
 
 Repositório Baseado nos exercícios considerados pertinentes para exibição Unity.
-455
+
 Curso Mentorama: Desenvolvedor de Games em Unity.
 
 
@@ -52,7 +52,7 @@ Considerando sempre como prioridade a nota de maior valor.
 
 ![GameBulletInLoco](https://user-images.githubusercontent.com/107582204/205461921-4cd164bf-b906-4a12-8b64-4460af9227a8.gif)
 
-<h2)
+
 
 <h2>Importando Assets e montar uma cena : </h2> <h3> Foi importado este assets do Unity Asset Store, ajustados erros da importação e compatibilização com a versão que estou utilizando. </h3>
 
