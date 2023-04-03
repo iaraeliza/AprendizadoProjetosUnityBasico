@@ -59,6 +59,9 @@ Considerando sempre como prioridade a nota de maior valor.
 
 [Documentação](https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/atualizacao-projeto/Exercicios/Assets)
 
+![Gif-As123](https://user-images.githubusercontent.com/107582204/229505980-10b2ff60-be07-405c-8f9e-d9beb691c92d.gif)
+
+
 <h2>Criar uma máquina de estado que aceite animações de combo : </h2> <h3> O click do mouse no personagem faz com que a próxima animação seja ativada. </h3>
 
 [Documentação](https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/atualizacao-projeto/Exercicios/Animation)
