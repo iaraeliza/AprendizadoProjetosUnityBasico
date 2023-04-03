@@ -68,5 +68,9 @@ Considerando sempre como prioridade a nota de maior valor.
 
 ![Modulo 9](https://user-images.githubusercontent.com/107582204/226432659-34b12081-58b9-416a-ac0e-8423053befe3.gif)
 
+<h2>Desenvolver um game inspirado no Pac-Man : </h2> 
 
+[Documentação](https://github.com/iaraeliza/pac-mania)
+
+![Gif-As1234](https://user-images.githubusercontent.com/107582204/229520694-7b87855e-2cec-4ab0-be48-ec75563898b0.gif)
 
