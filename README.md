@@ -68,4 +68,12 @@ Considerando sempre como prioridade a nota de maior valor.
 
 ![Modulo 9](https://user-images.githubusercontent.com/107582204/226432659-34b12081-58b9-416a-ac0e-8423053befe3.gif)
 
+<h2>Utilização do componete Text Mesh Pro </h2> 
+<h3>O primeiro desafio é movimentar uma palavra utilizando o componente Text Mesh Pro.  O segundo exercício é permitir que um diálogo seja exibido em uma cena, letra por letra, em uma velocidade determinada:</h3>
+<h4>A cada clique do mouse, a próxima frase do diálogo é exibida e o plano de fundo da cena é trocado. </h4>
+
+[Documentação](https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/atualizacao-projeto/Exercicios/TextTMP)
+
+![Dialogo](https://user-images.githubusercontent.com/107582204/230095983-685317c9-2fe6-4121-acef-72ae17ef92d0.gif)
+
 
