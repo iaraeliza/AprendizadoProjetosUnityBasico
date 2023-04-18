@@ -80,6 +80,7 @@ Considerando sempre como prioridade a nota de maior valor.
 <h3>Utilizar as ferramentas de vídeo player e audio source do Unity</h3>
 <h4>A cada clique do mouse nas opções de botões o som da interface é modificado para o seu áudio correspondente, enquanto o vídeo continua. </h4>
 
+[Documentação](https://github.com/iaraeliza/AprendizadoProjetosUnityBasico/tree/atualizacao-projeto/Exercicios/GerenciadordeAudio)
 
 
 
