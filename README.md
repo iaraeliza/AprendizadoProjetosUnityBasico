@@ -76,4 +76,12 @@ Considerando sempre como prioridade a nota de maior valor.
 
 ![Dialogo](https://user-images.githubusercontent.com/107582204/230095983-685317c9-2fe6-4121-acef-72ae17ef92d0.gif)
 
+<h2>Módulo multimidea  </h2> 
+<h3>Utilizar as ferramentas de vídeo player e audio source do Unity</h3>
+<h4>A cada clique do mouse nas opções de botões o som da interface é modificado para o seu áudio correspondente, enquanto o vídeo continua. </h4>
+
+
+
+
+https://user-images.githubusercontent.com/107582204/232848941-704530a1-6fbe-4dc5-87e5-13de394b3a22.mp4
 
